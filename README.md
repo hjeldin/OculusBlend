@@ -24,4 +24,4 @@ The compiled .pyd can be found in build/lib.win32-3.4/rift.pyd, now move this fi
 Remarks
 ----
 * If during the building you get an error like this **Unicode Error "unicodeescape" codec can't decode bytes...**, probably you have an escape sequence in your include_dirs path. To fix it place an 'r' before the string to produce a raw one.
-* For building Cython is better have Visual Studio 2010 installed on your machine.
+* For building Cython is better if you have Visual Studio 2010 installed on your machine.
