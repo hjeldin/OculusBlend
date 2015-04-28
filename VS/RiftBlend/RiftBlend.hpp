@@ -1,6 +1,6 @@
 #pragma once
 #include "include/OVR.h"
-#include "Src/OVR_CAPI_GL.h"
+#include "Include/OVR_CAPI_GL.h"
 #include <iostream>
 #include <vector>
 class RiftBlend
