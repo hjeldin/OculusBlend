@@ -19,7 +19,7 @@ followed by
 
 `python setup.py build --inplace`
 
-The compiled .pyd can be found in build/lib.win32-3.4/rift.pyd, now move this file to your Blender\2.72\scripts\addons folder.
+The compiled .pyd can be found in build/lib.win32-3.4/rift.pyd, now move this file to your Blender/2.72/scripts/addons folder for have the Oculus in the embedded player. For using the standalone player copy the .pyd to your Blender/2.72/python/lib folder.
 
 Remarks
 ----
